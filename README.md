@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there! I'm Kavi, a junior at the California Academy of Mathematics and Science in Carson, California. I like to use my CS skills to solve real problems.
+
+- I'm currently working on an assistive technology mobile app
+- I'm currently learning backend/API development with Java and advanced iOS development.
 
 <!--
 **Kavi-Gupta/Kavi-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
